@@ -1,3 +1,13 @@
+C:\PainelHidro\src\facade\MonitoradorPastas.java
+C:\PainelHidro\src\facade\PainelFacade.java
+C:\PainelHidro\src\facade\ResultadoLeitura.java
+C:\PainelHidro\src\facade\TipoPasta.java
+C:\PainelHidro\src\leitor_hidro\AdaptadorHidrometroColab.java
+C:\PainelHidro\src\leitor_hidro\AdaptadorHidrometroRodri.java
+C:\PainelHidro\src\leitor_hidro\ClienteLeitorHidrometro.java
+C:\PainelHidro\src\leitor_hidro\HidrometroColab.java
+C:\PainelHidro\src\leitor_hidro\HidrometroRodri.java
+C:\PainelHidro\src\leitor_hidro\IHidrometroReader.java
 C:\PainelHidro\src\main\java\Main.java
 C:\PainelHidro\src\main\java\facade\ArquivoObserver.java
 C:\PainelHidro\src\main\java\facade\MonitoradorPastas.java
@@ -17,3 +27,8 @@ C:\PainelHidro\src\main\java\util\Circulo.java
 C:\PainelHidro\src\main\java\util\LeituraPonteiro.java
 C:\PainelHidro\src\main\java\util\TipoHidrometro.java
 C:\PainelHidro\src\main\java\util\UtilOCR.java
+C:\PainelHidro\src\util\AnalisadorPonteiro.java
+C:\PainelHidro\src\util\Circulo.java
+C:\PainelHidro\src\util\LeituraPonteiro.java
+C:\PainelHidro\src\util\TipoHidrometro.java
+C:\PainelHidro\src\util\UtilOCR.java
