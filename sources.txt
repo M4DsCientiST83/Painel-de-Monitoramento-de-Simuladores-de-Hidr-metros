@@ -1,0 +1,16 @@
+C:\PainelHidro\Main.Java 
+C:\PainelHidro\src\facade\MonitoradorPastas.Java 
+C:\PainelHidro\src\facade\PainelFacade.Java 
+C:\PainelHidro\src\facade\ResultadoLeitura.Java 
+C:\PainelHidro\src\facade\TipoPasta.Java 
+C:\PainelHidro\src\leitor_hidro\AdaptadorHidrometroColab.Java 
+C:\PainelHidro\src\leitor_hidro\AdaptadorHidrometroRodri.Java 
+C:\PainelHidro\src\leitor_hidro\Alvo.Java 
+C:\PainelHidro\src\leitor_hidro\Cliente.Java 
+C:\PainelHidro\src\leitor_hidro\HidrometroColab.Java 
+C:\PainelHidro\src\leitor_hidro\HidrometroRodri.Java 
+C:\PainelHidro\src\util\AnalisadorPonteiro.Java 
+C:\PainelHidro\src\util\Circulo.Java 
+C:\PainelHidro\src\util\LeituraPonteiro.Java 
+C:\PainelHidro\src\util\TipoHidrometro.Java 
+C:\PainelHidro\src\util\UtilOCR.Java 
